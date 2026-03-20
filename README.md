@@ -16,7 +16,7 @@ All articles are stored under the `articles/` directory, organized by language a
 | 1   | [What is frame rate and factors affecting it](articles/en/2018/01-what-is-frame-rate-and-factors-affecting-it/index.md) | Feb 03, 2018 | English  |
 | 2   | [ما هو الـ frame rate وما هي العوامل التي تؤثر عليه](articles/ar/2018/02-frame-rate-and-factors-affecting-it/index.md)   | Mar 12, 2018 | Arabic   |
 | 3   | [الـ Design Patterns في الجافاسكربت](articles/ar/2018/03-design-patterns-in-javascript/index.md)                        | Mar 13, 2018 | Arabic   |
-| 4   | الـ Object Oriented Programming في الجافاسكربت                                                                          | Apr 12, 2018 | Arabic   |
+| 4   | [الـ Object Oriented Programming في الجافاسكربت](articles/ar/2018/04-object-oriented-programming-in-javascript/index.md) | Apr 12, 2018 | Arabic   |
 | 5   | نمط دالة الإنشاء - الـ Constructor Pattern في الجافاسكربت                                                               | May 02, 2018 | Arabic   |
 | 6   | الوراثة في الجافاسكربت                                                                                                  | May 14, 2018 | Arabic   |
 | 7   | الـ Classical Inheritance في الجافاسكربت                                                                                | May 15, 2018 | Arabic   |
