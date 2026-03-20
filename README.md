@@ -29,10 +29,10 @@ All articles are stored under the `articles/` directory, organized by language a
 | 14  | [الـ Module Pattern في الجافاسكربت](articles/ar/2019/14-module-pattern-in-javascript/index.md)                           | Feb 14, 2019 | Arabic   |
 | 15  | [الـ Singleton Pattern في الجافاسكربت](articles/ar/2019/15-singleton-pattern-in-javascript/index.md)                     | Mar 28, 2019 | Arabic   |
 | 16  | [نمط الـ PubSub في الجافاسكربت - Publish Subscribe Pattern](articles/ar/2019/16-pubsub-pattern-in-javascript/index.md)   | Apr 24, 2019 | Arabic   |
-| 17  | نمط الـ MVC في الجافاسكربت - الـ Model View Controller Pattern                                                          | Jun 09, 2019 | Arabic   |
-| 18  | نمط الـ MVP في الجافاسكربت - الـ Model View Presenter Pattern                                                           | Jun 17, 2019 | Arabic   |
-| 19  | الـ Data Binding في عالم البرمجيات                                                                                      | Jun 20, 2019 | Arabic   |
-| 20  | نمط الـ MVVM في الجافاسكربت - Model View ViewModel Pattern                                                              | Jul 01, 2019 | Arabic   |
-| 21  | call, apply and bind methods in JavaScript                                                                              | Jan 03, 2020 | English  |
+| 17  | [نمط الـ MVC في الجافاسكربت - الـ Model View Controller Pattern](articles/ar/2019/17-mvc-pattern-in-javascript/index.md) | Jun 09, 2019 | Arabic   |
+| 18  | [نمط الـ MVP في الجافاسكربت - الـ Model View Presenter Pattern](articles/ar/2019/18-mvp-pattern-in-javascript/index.md)   | Jun 17, 2019 | Arabic   |
+| 19  | [الـ Data Binding في عالم البرمجيات](articles/ar/2019/19-data-binding-in-software/index.md)                               | Jun 20, 2019 | Arabic   |
+| 20  | [نمط الـ MVVM في الجافاسكربت - Model View ViewModel Pattern](articles/ar/2019/20-mvvm-pattern-in-javascript/index.md)     | Jul 01, 2019 | Arabic   |
+| 21  | [call, apply and bind methods in JavaScript](articles/en/2020/21-call-apply-bind-in-javascript/index.md)                 | Jan 03, 2020 | English  |
 
 
