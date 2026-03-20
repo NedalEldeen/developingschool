@@ -32,3 +32,4 @@ All articles are stored under the `blogs/` directory.
 | 18 | الـ Object Oriented Programming في الجافاسكربت | Apr 12, 2018 | Arabic |
 | 19 | الـ Design Patterns في الجافاسكربت | Mar 13, 2018 | Arabic |
 | 20 | ما هو الـ frame rate وما هي العوامل التي تؤثر عليه | Mar 12, 2018 | Arabic |
+| 21 | What is frame rate and factors affecting it | Feb 03, 2018 | English |
