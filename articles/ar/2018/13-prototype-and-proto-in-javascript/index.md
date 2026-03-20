@@ -338,19 +338,19 @@ console.log(Admin.privilege);
 
 من الأشياء التي يجب التنويه عنها عندما نتحدث عن الـ prototype chain أن هذه السلسلة تمشي في اتجاه واحد، one way direction، لو نظرنا إلى الصورة السابقة -ذات الأسهم الحمراء- سوف تجد أن السلسلة تمشي في اتجاه واحد بمعنى؛ أن الكائن Admin يستطيع أن يستدعي أي شيء من الكائن Moderator أو الكائن User لكن لا يجوز العكس. من النقاط الأخرى التي أريد أن امر عليها سريعا هى؛ لا يفضل أن تكون prototype chain لأي كائن طويلة للغاية، لأن هذا سوف يؤثر على performance بشكل أو بأخر. قبل الدخول في جزئية أخرى دعونا نلقي نظرة سريعة على الصور الآتية:-
 
-![رسم كروكي يوضح الـ prototype chain والـ delegation](./images/prototype-chain-delegation.jpg)
+![رسم كروكي يوضح الـ prototype chain والـ delegation](./images/prototype-chain-delegation.png)
 
 طبعا هذه صورة كروكية تبين لنا الـ prototype chain للمثال الذي نتحدث عنه، والآن دعونا ننظر ماذا يحدث عندما نستدعي أي خاصية موجودة في الكائن Admin:-
 
-![مخطط يوضح استدعاء خاصية موجودة في الكائن مباشرة](./images/prototype-chain-delegation-found.jpg)
+![مخطط يوضح استدعاء خاصية موجودة في الكائن مباشرة](./images/prototype-chain-delegation-found.png)
 
 عندما استدعينا الخاصية privilege تم ارجاعها فورا لأنها موجودة بالفعل في الكائن Admin، أما إن لم تكن موجودة مثل الصورة الآتية:-
 
-![مخطط يوضح البحث في الـ prototype chain عن دالة غير موجودة في الكائن](./images/prototype-chain-delegation-search.jpg)
+![مخطط يوضح البحث في الـ prototype chain عن دالة غير موجودة في الكائن](./images/prototype-chain-delegation-search.png)
 
 عندما قمنا باستدعاء الدالة editArticle من خلال الكائن Admin، وبما إن الدالة غير مُعرفة في هذا الكائن، تم البحث في الـ prototype chain كما في الصورة الكروكية هذه، لن نطيل أكثر من هذا في هذه الجزئية، سنلقي فقط نظرة سريعة على الصورة الكروكية الآتي، وندخل في الجزئية الأخيرة في هذا الموضوع:-
 
-![مخطط يوضح البحث في الـ prototype chain عن دالة موجودة في مستوى أعلى](./images/prototype-chain-delegation-deep-search.jpg)
+![مخطط يوضح البحث في الـ prototype chain عن دالة موجودة في مستوى أعلى](./images/prototype-chain-delegation-deep-search.png)
 
 ### الـ Classical Inheritance
 
