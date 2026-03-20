@@ -21,10 +21,10 @@ All articles are stored under the `articles/` directory, organized by language a
 | 6   | [الوراثة في الجافاسكربت](articles/ar/2018/06-inheritance-in-javascript/index.md)                                        | May 14, 2018 | Arabic   |
 | 7   | [الـ Classical Inheritance في الجافاسكربت](articles/ar/2018/07-classical-inheritance-in-javascript/index.md)             | May 15, 2018 | Arabic   |
 | 8   | [الـ Prototypal Inheritance في الجافاسكربت](articles/ar/2018/08-prototypal-inheritance-in-javascript/index.md)           | May 15, 2018 | Arabic   |
-| 9   | الفرق بين الـ classical inheritance والـ prototypal inheritance في الجافاسكربت                                          | Sep 16, 2018 | Arabic   |
-| 10  | الـ Mixins-Based Inheritance في الجافاسكربت                                                                             | Sep 25, 2018 | Arabic   |
-| 11  | الفرق بين دالة call ودالة apply ودالة bind في الجافاسكربت                                                               | Oct 19, 2018 | Arabic   |
-| 12  | الطرق الشائعة المستخدمة لإنشاء الكائنات في الجافاسكربت                                                                  | Oct 19, 2018 | Arabic   |
+| 9   | [الفرق بين الـ classical inheritance والـ prototypal inheritance في الجافاسكربت](articles/ar/2018/09-classical-vs-prototypal-inheritance-in-javascript/index.md) | Sep 16, 2018 | Arabic   |
+| 10  | [الـ Mixins-Based Inheritance في الجافاسكربت](articles/ar/2018/10-mixins-based-inheritance-in-javascript/index.md)       | Sep 25, 2018 | Arabic   |
+| 11  | [الفرق بين دالة call ودالة apply ودالة bind في الجافاسكربت](articles/ar/2018/11-call-apply-bind-in-javascript/index.md) | Oct 19, 2018 | Arabic   |
+| 12  | [الطرق الشائعة المستخدمة لإنشاء الكائنات في الجافاسكربت](articles/ar/2018/12-common-ways-to-create-objects-in-javascript/index.md) | Oct 19, 2018 | Arabic   |
 | 13  | دردشة حول الـ prototype والـ `__proto__` في الجافاسكربت                                                                   | Oct 19, 2018 | Arabic   |
 | 14  | الـ Module Pattern في الجافاسكربت                                                                                       | Feb 14, 2019 | Arabic   |
 | 15  | الـ Singleton Pattern في الجافاسكربت                                                                                    | Mar 28, 2019 | Arabic   |
