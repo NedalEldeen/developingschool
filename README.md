@@ -25,10 +25,10 @@ All articles are stored under the `articles/` directory, organized by language a
 | 10  | [الـ Mixins-Based Inheritance في الجافاسكربت](articles/ar/2018/10-mixins-based-inheritance-in-javascript/index.md)       | Sep 25, 2018 | Arabic   |
 | 11  | [الفرق بين دالة call ودالة apply ودالة bind في الجافاسكربت](articles/ar/2018/11-call-apply-bind-in-javascript/index.md) | Oct 19, 2018 | Arabic   |
 | 12  | [الطرق الشائعة المستخدمة لإنشاء الكائنات في الجافاسكربت](articles/ar/2018/12-common-ways-to-create-objects-in-javascript/index.md) | Oct 19, 2018 | Arabic   |
-| 13  | دردشة حول الـ prototype والـ `__proto__` في الجافاسكربت                                                                   | Oct 19, 2018 | Arabic   |
-| 14  | الـ Module Pattern في الجافاسكربت                                                                                       | Feb 14, 2019 | Arabic   |
-| 15  | الـ Singleton Pattern في الجافاسكربت                                                                                    | Mar 28, 2019 | Arabic   |
-| 16  | نمط الـ PubSub في الجافاسكربت - Publish Subscribe Pattern                                                               | Apr 24, 2019 | Arabic   |
+| 13  | [دردشة حول الـ prototype والـ `__proto__` في الجافاسكربت](articles/ar/2018/13-prototype-and-proto-in-javascript/index.md) | Oct 19, 2018 | Arabic   |
+| 14  | [الـ Module Pattern في الجافاسكربت](articles/ar/2019/14-module-pattern-in-javascript/index.md)                           | Feb 14, 2019 | Arabic   |
+| 15  | [الـ Singleton Pattern في الجافاسكربت](articles/ar/2019/15-singleton-pattern-in-javascript/index.md)                     | Mar 28, 2019 | Arabic   |
+| 16  | [نمط الـ PubSub في الجافاسكربت - Publish Subscribe Pattern](articles/ar/2019/16-pubsub-pattern-in-javascript/index.md)   | Apr 24, 2019 | Arabic   |
 | 17  | نمط الـ MVC في الجافاسكربت - الـ Model View Controller Pattern                                                          | Jun 09, 2019 | Arabic   |
 | 18  | نمط الـ MVP في الجافاسكربت - الـ Model View Presenter Pattern                                                           | Jun 17, 2019 | Arabic   |
 | 19  | الـ Data Binding في عالم البرمجيات                                                                                      | Jun 20, 2019 | Arabic   |
