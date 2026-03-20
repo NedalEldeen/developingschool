@@ -17,10 +17,10 @@ All articles are stored under the `articles/` directory, organized by language a
 | 2   | [ما هو الـ frame rate وما هي العوامل التي تؤثر عليه](articles/ar/2018/02-frame-rate-and-factors-affecting-it/index.md)   | Mar 12, 2018 | Arabic   |
 | 3   | [الـ Design Patterns في الجافاسكربت](articles/ar/2018/03-design-patterns-in-javascript/index.md)                        | Mar 13, 2018 | Arabic   |
 | 4   | [الـ Object Oriented Programming في الجافاسكربت](articles/ar/2018/04-object-oriented-programming-in-javascript/index.md) | Apr 12, 2018 | Arabic   |
-| 5   | نمط دالة الإنشاء - الـ Constructor Pattern في الجافاسكربت                                                               | May 02, 2018 | Arabic   |
-| 6   | الوراثة في الجافاسكربت                                                                                                  | May 14, 2018 | Arabic   |
-| 7   | الـ Classical Inheritance في الجافاسكربت                                                                                | May 15, 2018 | Arabic   |
-| 8   | الـ Prototypal Inheritance في الجافاسكربت                                                                               | May 15, 2018 | Arabic   |
+| 5   | [نمط دالة الإنشاء - الـ Constructor Pattern في الجافاسكربت](articles/ar/2018/05-constructor-pattern-in-javascript/index.md) | May 02, 2018 | Arabic   |
+| 6   | [الوراثة في الجافاسكربت](articles/ar/2018/06-inheritance-in-javascript/index.md)                                        | May 14, 2018 | Arabic   |
+| 7   | [الـ Classical Inheritance في الجافاسكربت](articles/ar/2018/07-classical-inheritance-in-javascript/index.md)             | May 15, 2018 | Arabic   |
+| 8   | [الـ Prototypal Inheritance في الجافاسكربت](articles/ar/2018/08-prototypal-inheritance-in-javascript/index.md)           | May 15, 2018 | Arabic   |
 | 9   | الفرق بين الـ classical inheritance والـ prototypal inheritance في الجافاسكربت                                          | Sep 16, 2018 | Arabic   |
 | 10  | الـ Mixins-Based Inheritance في الجافاسكربت                                                                             | Sep 25, 2018 | Arabic   |
 | 11  | الفرق بين دالة call ودالة apply ودالة bind في الجافاسكربت                                                               | Oct 19, 2018 | Arabic   |
